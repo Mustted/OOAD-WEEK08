@@ -11,4 +11,4 @@ User -> (Use)
 
 @enduml
 ```
-<ing src="https://github.com/Mustted/OOAD-WEEK08/blob/master/Homework/Use%20case%201.png?raw=true"
+<img src="https://github.com/Mustted/OOAD-WEEK08/blob/master/Homework/Use%20case%201.png?raw=true">
