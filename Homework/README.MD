@@ -13,6 +13,8 @@ User -> (Use)
 ```
 <img src="https://github.com/Mustted/OOAD-WEEK08/blob/master/Homework/Use%20case%201.png?raw=true">
 
+----------------------------------------------------------------
+
   Use Case2
   Code
   ```
@@ -27,6 +29,8 @@ rectangle Restaurant {
 @enduml
 ```
 <img src="https://github.com/Mustted/OOAD-WEEK08/blob/master/Homework/Use%20case2.png?raw=true">
+
+----------------------------------------------------------------
   Use case3
   Code
   ```
@@ -39,3 +43,30 @@ Admin --> (User3)
 @enduml
 ```
 <img src="https://github.com/Mustted/OOAD-WEEK08/blob/master/Homework/Use%20case3.png?raw=true">
+
+----------------------------------------------------------------
+  Use case4
+  Code
+ ```
+@startuml
+:Student: --> (STUDENT ID)
+newpage
+:Student: --> (STUDENT ID)
+@enduml
+```
+<img src="https://github.com/Mustted/OOAD-WEEK08/blob/master/Homework/Use%20case4.png?raw=true">
+
+----------------------------------------------------------------
+  Use case5
+  Code
+ ```
+ @startuml
+
+left to right direction
+USER --> (ADMIN)
+USER2 --> (ADMIN)
+
+@enduml
+```
+<img src="https://github.com/Mustted/OOAD-WEEK08/blob/master/Homework/USE%20CASE5.png?raw=true">
+----------------------------------------------------------------
